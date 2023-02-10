@@ -4,6 +4,5 @@ Controls: W, A, S, D
 
 All the credits go to the developer Chris from the channel (https://www.youtube.com/@ChrisCourses)
 
-![Captura de Tela (513) - Editado - Editado](https://user-images.githubusercontent.com/99682808/218135894-59031621-3384-42fe-a74e-02c177bb66db.png)
-
+![Captura de Tela (513) - Editado - Editado (1)](https://user-images.githubusercontent.com/99682808/218137132-1ee3a345-9b47-40f1-9d5a-597620c55207.png)
 
